@@ -2,7 +2,7 @@
 
 Every [Uppcoder](https://uppcoder.com) app comes with [pixi](https://pixi.sh), the package manager from [prefix.dev](https://prefix.dev), and its own `pixi.toml`. This guide shows how to add libraries and tools, run tasks and bring your own pixi project, from the terminal in your browser.
 
-Every step below was tested on Uppcoder on 20 November 2026 (pixi 0.62.2). Corrections are welcome as issues or pull requests.
+Every step below was tested on Uppcoder on 20 November 2026 (pixi 0.62.2). The same guide is on our site: **[portal.uppcoder.com/guides/use-pixi](https://portal.uppcoder.com/guides/use-pixi)**. Corrections are welcome as issues or pull requests.
 
 ## Contents
 
@@ -86,7 +86,7 @@ pixi run start
 
 ## Try it
 
-Sign up at [portal.uppcoder.com](https://portal.uppcoder.com): the free plan needs no card and has no time limit. More guides: [portal.uppcoder.com/guides](https://portal.uppcoder.com/guides). How we built Uppcoder on pixi: [websson-doo.com blog](https://websson-doo.com/en/blog/how-we-built-uppcoder-on-pixi/).
+Sign up at [portal.uppcoder.com](https://portal.uppcoder.com): the free plan needs no card and has no time limit. This guide on our site: [portal.uppcoder.com/guides/use-pixi](https://portal.uppcoder.com/guides/use-pixi). More guides: [portal.uppcoder.com/guides](https://portal.uppcoder.com/guides). How we built Uppcoder on pixi: [websson-doo.com blog](https://websson-doo.com/en/blog/how-we-built-uppcoder-on-pixi/).
 
 ---
 
